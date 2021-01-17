@@ -11,3 +11,4 @@ Features and Functionality:
 5. View the number of matched result.
 6. Lastly, view all contacts altogether.
 7. Application SIZE: 10 Kilobytes only (excluding text files).
+8. 389 lines of much readable code with comments.
